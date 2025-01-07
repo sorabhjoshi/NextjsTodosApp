@@ -24,3 +24,8 @@ Ensure you have the following installed on your system:
    ```bash
    git clone https://github.com/sorabhjoshi/NextjsTodosApp.git
    cd NextjsTodosApp
+
+### Run
+1. npm install
+2. npm run dev
+3. npm run json-server
